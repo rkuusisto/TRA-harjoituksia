@@ -13,6 +13,21 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\2_2">
+      <UniqueIdentifier>{c34974b9-8eaa-4dd7-997b-539c33d6c8a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\2_4">
+      <UniqueIdentifier>{d932685a-4b72-4e88-87ea-95897f5731bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\3_2_1">
+      <UniqueIdentifier>{ede38331-b3b3-4eff-82d2-191be8793433}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\5_1">
+      <UniqueIdentifier>{39afc351-a15b-461f-a27b-af4eea007b50}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\6_5">
+      <UniqueIdentifier>{805bd05a-d0b0-46cd-a54a-c4f8fdf1e7b6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -33,6 +48,36 @@
     <ClInclude Include="Alkio.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="h2_2.h">
+      <Filter>Source Files\2_2</Filter>
+    </ClInclude>
+    <ClInclude Include="h2_4.h">
+      <Filter>Source Files\2_4</Filter>
+    </ClInclude>
+    <ClInclude Include="Queue.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bpuu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="h5_1.h">
+      <Filter>Source Files\5_1</Filter>
+    </ClInclude>
+    <ClInclude Include="h3_2_1.h">
+      <Filter>Source Files\3_2_1</Filter>
+    </ClInclude>
+    <ClInclude Include="Sort.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CSVReader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="h6_5.h">
+      <Filter>Source Files\6_5</Filter>
+    </ClInclude>
+    <ClInclude Include="Opintojakso.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -48,6 +93,36 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Alkio.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="h2_2.cpp">
+      <Filter>Source Files\2_2</Filter>
+    </ClCompile>
+    <ClCompile Include="h2_4.cpp">
+      <Filter>Source Files\2_4</Filter>
+    </ClCompile>
+    <ClCompile Include="Queue.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bpuu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="h5_1.cpp">
+      <Filter>Source Files\5_1</Filter>
+    </ClCompile>
+    <ClCompile Include="h3_2_1.cpp">
+      <Filter>Source Files\3_2_1</Filter>
+    </ClCompile>
+    <ClCompile Include="Sort.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CSVReader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="h6_5.cpp">
+      <Filter>Source Files\6_5</Filter>
+    </ClCompile>
+    <ClCompile Include="Opintojakso.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
